@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - Explore K6.io -->
 
 ### 📬 How to reach me
-- WhatsApp: +62 82338167131
 - Gmail: abdullah.ainun4@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ainun-abdullah-046609117/
 - Twitter: https://twitter.com/abdullahainun
