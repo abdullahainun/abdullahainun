@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - ✨ My name is Ainun Abdullah
 - ✨ I'm a FullStack Developer (infra, backend, frontend).
 - ✨ Hobbies: Futsal
+- ✨ Graduated: [PENS](https://www.pens.ac.id/) D4 Teknik Informatika - Politeknik Elektronika Negeri Surabaya
 - ✨ Current Company: [Pahamify](https://pahamify.com/) (Infra Eng)
 - ✨ Competencies: AWS Cloud, Digital Ocean, Bash Shell, *nix fans, K8s, Golang, IaC with Terraform and much more
 
