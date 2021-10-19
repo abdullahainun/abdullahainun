@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ✨ I'm a FullStack Developer (infra, backend, frontend).
 - ✨ Hobbies: Futsal
 - ✨ Current Company: [Pahamify](https://pahamify.com/) (Infra Eng)
-- ✨ Competencies: AWS Cloud, Digital Ocean, Bash Shell, *nix fans, K8s, PHP, NodeJS and much more.
+- ✨ Competencies: AWS Cloud, Digital Ocean, Bash Shell, *nix fans, K8s, Golang, IaC with Terraform and much more
 
 <!-- 
 ### 🌱 My latest projects
