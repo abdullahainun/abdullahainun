@@ -21,6 +21,3 @@ Here are some ideas to get you started:
 ### 📬 How to reach me
 - Gmail: abdullah.ainun4@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ainun-abdullah-046609117/
-- Twitter: https://twitter.com/abdullahainun
-- Facebook: https://web.facebook.com/abdullah.ainun4
-- Instagram: https://www.instagram.com/abdullah.ainun/
