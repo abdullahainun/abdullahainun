@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ✨ Hobbies: Futsal
 - ✨ Graduated: [PENS](https://www.pens.ac.id/) ( D4 Teknik Informatika - Politeknik Elektronika Negeri Surabaya )
 - ✨ Current Company: [ALAMI](https://alamisharia.co.id/) (SRE)
-- ✨ Competencies: AWS Cloud, Digital Ocean, Bash Shell, *nix fans, K8s, Golang, IaC with Terraform and much more
+- ✨ Competencies: GCP, AWS Cloud, Digital Ocean, Bash Shell, *nix fans, K8s, Golang, IaC with Terraform and much more
 
 <!-- 
 ### 🌱 My latest projects
