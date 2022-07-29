@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 - Explore K6.io -->
 
 ### 📬 How to reach me
-- Gmail: abdullah.ainun4@gmail.com
 - LinkedIn: https://www.linkedin.com/in/abdullahainun
