@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ### 📬 How to reach me
 - Gmail: abdullah.ainun4@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ainun-abdullah-046609117/
+- LinkedIn: https://www.linkedin.com/in/abdullahainun
