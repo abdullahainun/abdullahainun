@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ✨ My name is Ainun Abdullah
 - ✨ I'm a Software Engineer especially in Infrastructure (SRE, DevOps, Cloud)
 - ✨ Graduated from [PENS](https://www.pens.ac.id/)
-- ✨ Current Company: [ALAMI](https://alamisharia.co.id/) (SRE)
+- ✨ Current Company: [HIJRA](https://alamisharia.co.id/) (SRE)
 - ✨ Competencies: ( GCP, AWS Cloud, Digital Ocean, Bash Shell, *nix fans, K8s, Golang, Terraform )
 
 <!-- 
