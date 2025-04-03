@@ -16,8 +16,7 @@
 ## 💼 Work Experience
 
 #### SRE/Reliability team at PT. Alami Teknologi Sharia (alamisharia.co.id and hijra.id)
-##### June 2022 - February 2025
-##### Jakarta, Indonesia
+June 2022 - February 2025 | Jakarta, Indonesia
 
 - Maintain a monitoring platform which runs on docker and compute engines.
 - Initiate monitoring platform project, integrating “monitoring as code” practices to automate monitoring infrastructure.
@@ -35,8 +34,7 @@
 
 ---
 #### Infrastructure Engineer at PT. Pahami Cipta Edukasi (pahamify.com)
-##### December 2020 - June 2022
-##### Bogor, Indonesia
+December 2020 - June 2022 | Bogor, Indonesia
 - Achieve over 50% cost savings through preemptible VM Instances implementation.
 - Migrate Pahamify infrastructure from AWS to GCP .
 - Maintain Pahamify infrastructure day to day.
@@ -51,8 +49,7 @@ NodeJs, Python.
 
 ---
 #### Staff Engineer at PT. Traspac Makmur Sejahtera (traspac.co.id)
-##### September 2019 - December 2020
-##### Surabaya, Indonesia
+September 2019 - December 2020 | Surabaya, Indonesia
 
 - Initiate marketplace applications for Hajj and Umrah services.
 - Research cloud infrastructure implementation.
@@ -67,8 +64,7 @@ Hajj.
 
 ---
 #### Internship Web Developer at PT. Infoglobal Teknologi Semesta
-##### January 2018 - March 2018
-##### Surabaya, Indonesia
+January 2018 - March 2018 | Surabaya, Indonesia
 - Research payroll process.
 - Design payroll system.
 - Implement waterfall software development methodology.
