@@ -4,7 +4,6 @@
 
 - 👯 I’m looking to collaborate with other developers
 - 💻Skilled in Cloud, CI/CD, IaC
-
 ---
 
 ## 🎓 Education
