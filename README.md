@@ -47,3 +47,5 @@
 - [Certified Kubernetes Administrator (CKA)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/58980c0f-6733-4a5d-8a6a-964174fc161d-ainun-abdullah-2cfec862-bd49-4a0f-91df-c173b4db293c-certificate.pdf)
 
 </details>
+
+**You can view my latest comprehensive CV by clicking [on this link.](https://github.com/abdullahainun/abdullahainun/blob/main/CV%20Ainun%20Abdullah%20-%20SRE.pdf)**
