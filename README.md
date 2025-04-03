@@ -67,9 +67,16 @@
 ---
 ## 💼 Work Experience
 
-#### June 2022 - February 2025
-#### SRE/Reliability team at PT. Alami Teknologi Sharia (alamisharia.co.id and hijra.id)
-#### Jakarta, Indonesia
+- **SRE/Reliability team at PT. Alami Teknologi Sharia (alamisharia.co.id and hijra.id)**
+  - June 2022 - February 2025
+  - Jakarta, Indonesia
+
+Hijra Group is a sharia financial technology platform that aims to revolutionise the islamic finance industry in Indonesia. At hijra I joined the monitoring/reliability team of SRE.
+
+Stack: Compute Engine, GKE, Terraform, ArgoCD, Elasticsearch, Github Action, Prometheus, Thanos, Google Cloud Monitoring, Google Cloud Logging, Alertmanager, etc.
+
+<details>
+    <summary>What i have done:</summary>
 - Maintain a monitoring platform which runs on docker and compute engines.
 - Initiate monitoring platform project, integrating “monitoring as code” practices to automate monitoring infrastructure.
 - Migrate monitoring platform from compute engine to kubernetes.
@@ -79,52 +86,58 @@
 - Implement a logging system with Google Cloud Logging and ELK Stack.
 - Research new technology implementation.
 - Help the security team to deploy Wazuh.
+</details>
 
-Stack: Compute Engine, GKE, Terraform, ArgoCD, Elasticsearch, Github Action, Prometheus, Thanos, Google
-Cloud Monitoring, Google Cloud Logging, Alertmanager, etc.
+- **Infrastructure Engineer at PT. Pahami Cipta Edukasi (pahamify.com)**
+  - December 2020 - June 2022
+  - Bogor, Indonesia
 
-Hijra Group is a sharia financial technology platform that aims to revolutionise the islamic finance industry in Indonesia. At hijra I joined the monitoring/reliability team of SRE.
+Pahamify is a leading education technology company in Indonesia, known for creating the most engaging and
+innovative learning app
 
-#### December 2020 - June 2022
-#### Infrastructure Engineer at PT. Pahami Cipta Edukasi (pahamify.com)
-#### Bogor, Indonesia
+Stack: AWS EC2, AWS Cloudfront, Google Kubernetes Engine, Terraform, MySQL, Bitbucket Pipeline, Kafka, Go,
+NodeJs, Python.
+
+<details>
+  <summary>What i have done:</summary>
 - Achieve over 50% cost savings through preemptible VM Instances implementation.
 - Migrate Pahamify infrastructure from AWS to GCP .
 - Maintain Pahamify infrastructure day to day.
 - Research new technology implementation.
 - Mentor kampus merdeka squads.
+</details>
 
-Stack: AWS EC2, AWS Cloudfront, Google Kubernetes Engine, Terraform, MySQL, Bitbucket Pipeline, Kafka, Go,
-NodeJs, Python.
+- **Staff Engineer at PT. Traspac Makmur Sejahtera (traspac.co.id)**
+  - September 2019 - December 2020
+  - Surabaya, Indonesia
 
-Pahamify is a leading education technology company in Indonesia, known for creating the most engaging and
-innovative learning app
+Traspac is a software house that undertook a project to develop an application for e-commerce Umrah and
+Hajj.
 
+Stack: OpenNebula, DigitalOcean, Docker, Kubernetes, Jenkins, Gitlab CI, PHP , NodeJs, VueJs, PostgreSQL
 
-#### September 2019 - December 2020
-#### Staff Engineer at PT. Traspac Makmur Sejahtera (traspac.co.id)
-#### Surabaya, Indonesia
+<details>
+  <summary>What i have done:</summary>
 - Initiate marketplace applications for Hajj and Umrah services.
 - Research cloud infrastructure implementation.
 - Create and manage an application infrastructure.
 - Create a CI/CD release pipeline.
 - Develop application frontend platform.
+</details>
 
-Stack: OpenNebula, DigitalOcean, Docker, Kubernetes, Jenkins, Gitlab CI, PHP , NodeJs, VueJs, PostgreSQL
+- **Internship Web Developer at PT. Infoglobal Teknologi Semesta**
+  - January 2018 - March 2018
+  - Surabaya, Indonesia
 
-Traspac is a software house that undertook a project to develop an application for e-commerce Umrah and
-Hajj.
+Stack: Codeigniter, Bootstrap, PHP , Javascript, CSS, MySQL
 
-#### January 2018 - March 2018
-#### Internship Web Developer at PT. Infoglobal Teknologi Semesta
-#### Surabaya, Indonesia
+<details>
+  <summary>What i have done:</summary>
 - Research payroll process.
 - Design payroll system.
 - Implement waterfall software development methodology.
 - Develop the application using codeigniter and bootstrap framework.
-
-Stack: Codeigniter, Bootstrap, PHP , Javascript, CSS, MySQL
-
+</details>
 
 
 ---
