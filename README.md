@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer extended in reliability or infrastructure
 
-- 👯 I’m looking to collaborate with other developers
+- 👯 I’m looking new job opportunity and/or collaborate with other developers
 - 💻Skilled in Cloud, CI/CD, IaC
 ---
 
