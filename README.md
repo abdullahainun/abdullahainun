@@ -15,7 +15,7 @@
 ## 💼 Work Experience
 
 - **SRE/Reliability** team at PT. Alami Teknologi Sharia (alamisharia.co.id and hijra.id)
-  - June 2022 - February 2025
+  - June 2022 - Currently
   - Jakarta, Indonesia (Remote)
 - **Infrastructure Engineer** at PT. Pahami Cipta Edukasi (pahamify.com)
   - December 2020 - June 2022
