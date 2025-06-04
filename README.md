@@ -18,8 +18,8 @@ I'm a **Site Reliability Engineer** with 5+ years of experience building resilie
 ```mermaid
 graph LR
     A[2019] -->|Staff Engineer| B[PT. Traspac]
-    B --> |2020| C[Infrastructure Engineer<br/>PT. Pahami - Pahamify]
-    C --> |2022| D[Site Reliability Engineer<br/>PT. Alami - alamisharia.co.id]
+    B --> |2020| C[Infrastructure Engineer<br/> @Pahamify]
+    C --> |2022| D[Site Reliability Engineer<br/> @alamisharia.co.id]
     D --> |2025| E[Open for New Challenges!]
 ```
 
