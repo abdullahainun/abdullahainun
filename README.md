@@ -61,8 +61,8 @@ graph LR
     <td align="center" width="50%">
       <h3>☸️ Kubernetes GitOps</h3>
       <p>Complete Kubernetes deployment using GitOps principles with ArgoCD and Flux</p>
-      <a href="https://github.com/abdullahainun/homelab-k8s">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahainun&repo=homelab-k8s&theme=dark" />
+      <a href="https://github.com/abdullahainun/homelab-k8s-services">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahainun&repo=homelab-k8s-services&theme=dark" />
       </a>
     </td>
   </tr>
@@ -79,7 +79,7 @@ graph LR
 
 - 🔨 Building a comprehensive **Infrastructure as Code** template library
 - 📚 Writing technical blogs about **SRE practices** and **homelab adventures**
-- 🌱 Exploring **GitOps** and **service mesh** architectures
+- 🌱 Exploring **GitOps**
 - 🤝 Open to **freelance opportunities** and **consulting engagements**
 
 ## 📝 Latest Blog Posts
