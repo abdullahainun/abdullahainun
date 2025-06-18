@@ -40,7 +40,7 @@ Production-ready Kubernetes configurations for self-hosted applications. Built w
 
 - 🔨 Expanding **homelab-k8s-services** with more production-ready manifests
 - 📚 Writing technical content about **SRE practices** and **homelab infrastructure**
-- 🌱 Exploring **GitOps** patterns with ArgoCD and Flux
+- 🌱 Exploring **GitOps** patterns with Flux
 - 🤝 Open to **freelance opportunities** and **consulting engagements**
 
 ## 🤝 Let's Connect
