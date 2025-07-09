@@ -25,17 +25,6 @@
 **Monitoring**  
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000) ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 
-## 🌟 Featured Project
-
-### ☸️ homelab-k8s-services
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=abdullahainun&repo=homelab-k8s-services&theme=dark)](https://github.com/abdullahainun/homelab-k8s-services)
-
-
-Production-ready Kubernetes manifests for homelab • Self-hosted services catalog • GitOps compatible
-
-Production-ready Kubernetes configurations for self-hosted applications. Built with Kustomize overlays, Helm charts, and GitOps best practices.
-
 ## 🎯 Current Focus
 
 - 🔨 Expanding **homelab-k8s-services** with more production-ready manifests
