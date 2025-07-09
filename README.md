@@ -27,7 +27,7 @@
 
 ## 🎯 Current Focus
 
-- 🧑🏻‍💻 Build **tenangdb**  as a Secure automated MySQL backup with cloud integration and intelligent cleanup.
+- 🧑🏻‍💻 Build **TenangDB:** Automated & secure MySQL backups. Sleep soundly.
 - 🔨 Expanding **homelab-k8s-services** with more production-ready manifests
 - 📚 Writing technical content about **SRE practices** and **homelab infrastructure**
 - 🌱 Exploring **GitOps** patterns with Flux
