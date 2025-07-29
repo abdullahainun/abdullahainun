@@ -28,7 +28,7 @@
 ## 🎯 Current Focus
 
 - 🧑🏻‍💻 Build **TenangDB:** Automated & secure MySQL backups. Sleep soundly.
-- 🔨 Expanding **homelab-k8s-services** with more production-ready manifests
+- 🔨 Expanding **selfh-k8s** with more production-ready manifests
 - 📚 Writing technical content about **SRE practices** and **homelab infrastructure**
 - 🌱 Exploring **GitOps** patterns with Flux
 - 🤝 Open to **freelance opportunities** and **consulting engagements**
